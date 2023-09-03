@@ -1,0 +1,7 @@
+I forgot to add some commands before committing
+
+git log --oneline
+git remote add origin "url"
+git push -u origin master
+git branch feature/test
+git branch
